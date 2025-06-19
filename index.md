@@ -1,4 +1,4 @@
----
-Title: Welcome to my coding portfolio 🌟
----
-I need to look up ***Markdown***...
+# Heading 1 Welcome to my coding portfolio
+🌟 ***The Brag Page*** 🌟
+
+
