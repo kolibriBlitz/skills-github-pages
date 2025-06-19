@@ -1,4 +1,4 @@
-# Heading 1 Welcome to my coding portfolio
-🌟 ***The Brag Page*** 🌟
+# 🌟 ***My Brag Page*** 🌟 
 
+### Welcome to my Coding Portfolio
 
